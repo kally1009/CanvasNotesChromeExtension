@@ -1,0 +1,24 @@
+/* This page will be refrenced in the HTML if needed*/
+
+#note {   /*sticky*/
+  color: black;
+  position: relative;
+}
+
+#note-input {
+  position: absolute;
+  z-index: 1;
+  width: 80%;
+  background-color:"#D3C9EA"; 
+  height: 180px;
+}
+
+#deleteButton {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  z-index: 2;
+
+}
+
+

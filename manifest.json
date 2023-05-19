@@ -1,0 +1,20 @@
+ 
+{
+  "name": "Canvas Calender Note Taking Extention",
+  "description": "This extention will allow users to take notes on the Canvas calender.",
+  "version": "0.0.0.2",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "js": ["javascript.js"],
+      "css" : ["style.css"],
+      "matches": ["https://*.instructure.com/*"]
+    }
+  ],
+  "background": {
+        
+    }
+  
+}
+
+
