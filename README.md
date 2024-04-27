@@ -2,7 +2,7 @@
 
 [Store Link](https://chrome.google.com/webstore/detail/canvas-calender-note-taki/kbkdkicbnjddjpmeofjefdjaeglikmeg)
 
-###### This was originally built by Kalicia Adams and Grace Hanke Fall 2021. 
+###### This was originally built by Kalicia Ashcraft and Grace Hanke Fall 2021. 
 
 Updates since:
 

@@ -1,8 +1,8 @@
  
 {
-  "name": "Canvas Calender Note Taking Extention",
-  "description": "This extention will allow users to take notes on the Canvas calender.",
-  "version": "0.0.0.2",
+  "name": "Canvas Calender Note Taking Extension",
+  "description": "This extension will allow users to take notes on the Canvas calender.",
+  "version": "0.0.0.3",
   "manifest_version": 3,
   "content_scripts": [
     {
