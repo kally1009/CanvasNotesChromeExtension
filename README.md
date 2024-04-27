@@ -4,6 +4,6 @@
 
 ###### This was originally built by Kalicia Ashcraft and Grace Hanke Fall 2021. 
 
-Updates since:
+Canvas Calendar Note Taking extension features an added note on the side replacing the mini calendar in canvas instructor. This allows for students to take personal notes on an easy to use interface. 
 
-- Made compatible with any institution using canvas instructure (Fall 2022).  
+![Alt text](current_look.png)
